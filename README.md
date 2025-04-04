@@ -2,7 +2,7 @@
 
 ## Overview
 
-The ASL Translator is an innovative, AI-powered educational tool designed to empower the Deaf and Hard-of-Hearing community while teaching American Sign Language (ASL) to children. Our system translates ASL gestures into English text in real-time and supports bidirectional translation (ASL-to-text and text-to-ASL). The project features a simple, kid-friendly interface with three interactive modes: **Learn**, **Freemode**, and **Play**. This initiative aligns with our commitment to accessibility and inclusivity and is built with a robust technology stack to ensure high performance and scalability.
+The ASL Alphabet Education Tool is an innovative, AI-powered educational tool designed to empower the Deaf and Hard-of-Hearing community while teaching American Sign Language (ASL) to children. Our system translates ASL alphabets into English text in real-time (ASL-to-text). The project features a simple, kid-friendly interface with three interactive modes: **Learn**, **Freemode**, and **Play**. This initiative aligns with our commitment to accessibility and inclusivity and is built with a robust technology stack to ensure high performance and scalability.
 
 ## Features
 
